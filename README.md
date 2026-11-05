@@ -3,7 +3,7 @@
 > output and believe it to be reasonable, and have tested on a Kobo reader - but
 > treat it with the caution that anything vibe-coded deserves!
 
-# KaraKo
+# KaraKo Extended
 
 Read your [Karakeep](https://karakeep.app) articles on a Kobo, via
 [KOReader](https://koreader.rocks).
