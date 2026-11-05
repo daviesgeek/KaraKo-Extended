@@ -1,0 +1,23 @@
+{
+  "schema_version": "1",
+  "repo": {
+    "id": "daviesgeek-karako",
+    "name": "KaraKO Extended",
+    "url": "https://github.com/daviesgeek/KaraKO-Extended"
+  },
+  "packages": [
+    {
+      "id": "karako-extended",
+      "name": "KaraKO Extended",
+      "version": "source",
+      "description": "Karakeep integration for KOReader",
+      "author": "daviesgeek",
+      "category": "productivity",
+      "platforms": ["koreader"],
+      "dependencies": [],
+      "source": "https://github.com/daviesgeek/KaraKO-Extended",
+      "source_type": "source",
+      "source_url": "https://codeload.github.com/daviesgeek/KaraKO-Extended/zip/refs/heads/main"
+    }
+  ]
+}
